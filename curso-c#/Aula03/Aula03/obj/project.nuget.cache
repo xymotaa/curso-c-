@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wSQmeCK20Cc=",
+  "success": true,
+  "projectFilePath": "/home/xymotaa_/Documentos/curso-c#/curso-c#/Aula03/Aula03/Aula03.csproj",
+  "expectedPackageFiles": [
+    "/home/xymotaa_/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
