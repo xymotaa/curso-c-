@@ -1,0 +1,15 @@
+/home/xymotaa_/Documentos/curso-c#/curso-c#/Aula08/Aula08/bin/Debug/net10.0/Aula08
+/home/xymotaa_/Documentos/curso-c#/curso-c#/Aula08/Aula08/bin/Debug/net10.0/Aula08.deps.json
+/home/xymotaa_/Documentos/curso-c#/curso-c#/Aula08/Aula08/bin/Debug/net10.0/Aula08.runtimeconfig.json
+/home/xymotaa_/Documentos/curso-c#/curso-c#/Aula08/Aula08/bin/Debug/net10.0/Aula08.dll
+/home/xymotaa_/Documentos/curso-c#/curso-c#/Aula08/Aula08/bin/Debug/net10.0/Aula08.pdb
+/home/xymotaa_/Documentos/curso-c#/curso-c#/Aula08/Aula08/obj/Debug/net10.0/Aula08.GeneratedMSBuildEditorConfig.editorconfig
+/home/xymotaa_/Documentos/curso-c#/curso-c#/Aula08/Aula08/obj/Debug/net10.0/Aula08.AssemblyInfoInputs.cache
+/home/xymotaa_/Documentos/curso-c#/curso-c#/Aula08/Aula08/obj/Debug/net10.0/Aula08.AssemblyInfo.cs
+/home/xymotaa_/Documentos/curso-c#/curso-c#/Aula08/Aula08/obj/Debug/net10.0/Aula08.csproj.CoreCompileInputs.cache
+/home/xymotaa_/Documentos/curso-c#/curso-c#/Aula08/Aula08/obj/Debug/net10.0/Aula08.sourcelink.json
+/home/xymotaa_/Documentos/curso-c#/curso-c#/Aula08/Aula08/obj/Debug/net10.0/Aula08.dll
+/home/xymotaa_/Documentos/curso-c#/curso-c#/Aula08/Aula08/obj/Debug/net10.0/refint/Aula08.dll
+/home/xymotaa_/Documentos/curso-c#/curso-c#/Aula08/Aula08/obj/Debug/net10.0/Aula08.pdb
+/home/xymotaa_/Documentos/curso-c#/curso-c#/Aula08/Aula08/obj/Debug/net10.0/Aula08.genruntimeconfig.cache
+/home/xymotaa_/Documentos/curso-c#/curso-c#/Aula08/Aula08/obj/Debug/net10.0/ref/Aula08.dll
