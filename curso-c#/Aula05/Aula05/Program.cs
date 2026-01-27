@@ -12,7 +12,7 @@ public class Program
         Console.Write("Digite o segundo numero:");
         int number2 = Convert.ToInt32(Console.ReadLine());
 
-        Console.WriteLine("");
+        // Console.WriteLine("");
 
         int soma = number1 + number2;
         int subtracao = number1 - number2;
@@ -28,8 +28,8 @@ public class Program
         Console.WriteLine("A divisão do numero 1 com o numero 2 é: " + divisao);
         Console.WriteLine("O modulo do numero 1 com o numero 2 é: " + modulo);
 
-        Console.WriteLine("");
-        
+        //Console.WriteLine("");
+
         Console.WriteLine("=======================================");
     }
 }
